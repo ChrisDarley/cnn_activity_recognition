@@ -11,8 +11,7 @@ use in the model, because body acceleration is the same reading after accounting
 gravity.
 
 This model achieved 91.9% validation set accuracy and 86.7% test set accuracy, in contrast to the 96% accuracy achieved 
-when using linear dirscriminant analysis on 
-
+when using linear dirscriminant analysis on the set of processed features also available as part of the dataset.
 
 Goals to add to this notebook:
 1) add label support for dataloaders so that I can create a confusion matrix that displays acitivities
