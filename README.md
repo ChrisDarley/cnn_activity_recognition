@@ -10,7 +10,7 @@ and rotation recorded using a smartphone accelerometer and gyroscope, respective
 use in the model, because body acceleration is the same reading after accounting for the acceleration due to the force of 
 gravity.
 
-This model achieved 91.6% validation set accuracy and 83.2% test set accuracy, in contrast to the 96% accuracy achieved 
+This model achieved 92.0% validation set accuracy and 83.7% test set accuracy, in contrast to the 96% accuracy achieved 
 when using linear dirscriminant analysis on the set of processed features also available as part of the dataset.
 
 Goals to add to this notebook:
