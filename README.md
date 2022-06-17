@@ -19,3 +19,6 @@ Goals to add to this notebook:
 3) Consider using stratified train test split to split all three dets for possible improved performance.
 4) Normalize the incoming data through a transform
 5) Clean up the pipeline so that all transforms happen using the transform method
+
+This model is my first attempt at using pytorch.  Some of the structure of the code is inspired by the following repository:
+https://github.com/jindongwang/Deep-learning-activity-recognition/tree/master/pytorch, particularly the structure for the network file.
